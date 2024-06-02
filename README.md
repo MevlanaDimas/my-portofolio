@@ -138,7 +138,7 @@ Stay tuned for more exciting data science adventures! 🚀🔍
 
 ##Certificate
 
-**Python Fundamentals for Beginners**
+- **Python Fundamentals for Beginners**
 [Publications](https://olympus.mygreatlearning.com/courses/12682/certificate)
-**Certificate of English Proficiency Test**
+- **Certificate of English Proficiency Test**
 [Publications](https://drive.google.com/file/d/1UrzinjMdK4q6i2KJy5mFEB0LvBhfIAux/view)
