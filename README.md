@@ -55,7 +55,7 @@ XMotify 2 is designed to classify the five basic human emotions by analyzing phy
 
 ### Comparing Breast Cancer Prediction using ANN Method and Binary Logistic Regression | Universitas Islam Indonesia (_November 2022 - January 2023_)
 ![UII](/assets/img/UII_Logo/UII_Kuning.png)
-[Publications](https://github.com/MevlanaDimas/ANN_3_Layers_Breast_Cancer_Prediction.git)
+[GitHub](https://github.com/MevlanaDimas/ANN_3_Layers_Breast_Cancer_Prediction.git)
 
 📊 **Comparing Breast Cancer Prediction: ANN vs. Binary Logistic Regression** 🌟
 
@@ -87,7 +87,7 @@ Developed **back-end web application**, simple **front-end web application**, an
 
 ### Classification Comparison between ANN and Binary Gradient Boosted Decision Tree on Malaria Infected Red Blood Cell Images | Universitas Islam Indonesia (_May 2023 - July 2023_)
 ![UII](/assets/img/UII_Logo/UII_Kuning.png)
-[Publications](https://github.com/MevlanaDimas/Classification_of_Red_Blood_Cell_Infected_by_Malaria_using_ANN.git)
+[GitHub](https://github.com/MevlanaDimas/Classification_of_Red_Blood_Cell_Infected_by_Malaria_using_ANN.git)
 
 Unveiling the Power of **AI**: A Comparative Analysis of **ANN** vs. **Binary Gradient Boosted Decision Trees** for Detecting Malaria in RBC Images”
 
@@ -95,7 +95,7 @@ Dive into the fascinating world of **machine learning** as we explore the streng
 
 ### Simple CRUD Project about Library Database Using Python | Purwadhika Digital Technology School (_February 2024 - February 2024_)
 ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
-[Publications](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_1.git)
+[GitHub](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_1.git)
 
 Elevate Your **Data Analyst Skills** with This **Library CRUD App** Project in **Python**  
 
@@ -114,8 +114,8 @@ Ready to embark on this **Python** project journey? Stay tuned for our upcoming 
 
 ### Data Analyst of New York City January TLC Trip Record | Purwadhika Digital Technology School (_April 2024 - April 2024_)
 ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
-[Publications](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_2.git)
-[Publications](https://public.tableau.com/views/Tableu_17140326891240/NYCTaxiTrip?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+[GitHub](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_2.git)
+[Tableu](https://public.tableau.com/views/Tableu_17140326891240/NYCTaxiTrip?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 - 🚖 Dive into the world of data visualization with this **Tableau** analysis of NYC taxi trips! 📊 Discover key insights into trip duration, distance covered, and more. As a **data analyst**, I find this **visualization** offers a comprehensive view of trends and patterns within the dataset. 📈 What interesting findings have you uncovered through your **data analysis** projects? Share your thoughts in the comments below!
@@ -124,7 +124,7 @@ Ready to embark on this **Python** project journey? Stay tuned for our upcoming 
 
 ##California House Price Prediction using Machine Learning | Purwadhika Digital Technology School (_May 2024 - May 2024_)
 ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
-[Publications](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_3.git)
+[GitHub](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_3.git)
 
 🏡 **Predicting California House Prices with Machine Learning** 📈
 
