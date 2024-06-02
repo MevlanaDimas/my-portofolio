@@ -103,7 +103,7 @@ Ready to embark on this **Python** project journey? Stay tuned for our upcoming 
 [Publications](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_2.git)
 [Publications](https://public.tableau.com/views/Tableu_17140326891240/NYCTaxiTrip?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
-🚖 Dive into the world of data visualization with this **Tableau** analysis of NYC taxi trips! 📊 Discover key insights into trip duration, distance covered, and more. As a **data analyst**, I find this **visualization** offers a comprehensive view of trends and patterns within the dataset. 📈 What interesting findings have you uncovered through your **data analysis** projects? Share your thoughts in the comments below! 
+🚖 Dive into the world of data visualization with this **Tableau** analysis of NYC taxi trips! 📊 Discover key insights into trip duration, distance covered, and more. As a **data analyst**, I find this **visualization** offers a comprehensive view of trends and patterns within the dataset. 📈 What interesting findings have you uncovered through your **data analysis** projects? Share your thoughts in the comments below!
 ---  
 💡 Analyzing NYC taxi trips through **Tableau** can provide valuable insights for **data analysts**. 🚕 Explore the **visualization** showcasing trip duration, distance travelled, and other key metrics. How can this data be leveraged to optimize operations and enhance decision-making processes? Share your thoughts on the potential applications of this analysis in the field of **data analytics**! 💭
 --- 
