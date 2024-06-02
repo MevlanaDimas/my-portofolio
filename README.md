@@ -3,18 +3,18 @@
 ###Thecnical Skills: Python, SQL, NoSQL, JavaScript, Django, HTML, PHP, Tableu, Microsoft Power BI
 
 ## Education
-Electical Engineering, BE | Universitas Islam Indonesia (GPA: 3.36) (_September 2018 - November 2023_) ![UII](/assets/img/UII_Logo/UII - Kuning.png)
+Electical Engineering, BE | Universitas Islam Indonesia (GPA: 3.36) (_September 2018 - November 2023_) ![UII](/assets/img/UII_Logo/UII_Kuning.png)
 Data Science | Purwadhika Digital Technology School (_February 2024 - May 2024_) ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
 
 ## Experience
-**Students Researcher Staff of Biomedic Research Group at Universitas Islam Indonesia (_June 2020 - July 2021_)**
+**Students Researcher Staff of Biomedic Research Group at Universitas Islam Indonesia (_June 2020 - July 2021_)** ![UII](/assets/img/UII_Logo/UII_Kuning.png)
 -Assisted in data acquisition for various research projects conducted by senior team members.
 -Aided in preprocessing acquired data, which was managed and stored in a database using SQLite.
 -Statistically processed data stored in the database for individual research topics using Python.
 -Presented processed data to the head of student research and lecturers using Python visualizations.
 -Learned to draft scientific papers based on research findings.
 
-**General Leader of Students Researcher Staff of Biomedic Research Group at Universitas Islam Indinesia (_July 2021 - August 2022_)**
+**General Leader of Students Researcher Staff of Biomedic Research Group at Universitas Islam Indinesia (_July 2021 - August 2022_)** ![UII](/assets/img/UII_Logo/UII_Kuning.png)
 -Collaborated with lecturers to identify and discuss new research topics.
 -Authored scientific papers based on research findings for each study.
 -Submitted documents to the Institute of Electrical and Electronics Engineers (IEEE) for publication.
