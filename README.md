@@ -1,6 +1,6 @@
 # Data Scientist
 
-###Thecnical Skills: Python, SQL, NoSQL, JavaScript, Django, HTML, PHP, Tableu, Microsoft Power BI
+### Thecnical Skills: Python, SQL, NoSQL, JavaScript, Django, HTML, PHP, Tableu, Microsoft Power BI
 
 ## Education
 Electical Engineering, BE | Universitas Islam Indonesia (GPA: 3.36) (_September 2018 - November 2023_) ![UII](/assets/img/UII_Logo/UII_Kuning.png)
@@ -38,13 +38,13 @@ Data Science | Purwadhika Digital Technology School (_February 2024 - May 2024_)
 -Designed electrical systems and manufactured products using CNC machines and 3D printing technology.
 -Support parts and components, we collaborated in a B2B partnership with creativity teams from Universitas Gajah Mada and Universitas Islam Indonesia, including automotive, aerospace, and robotics groups.
 
-##Projects
-###Capstone Project - XMotify Mark 2 | Universitas Islam Indonesia (_October 2021 - July 2022_) ![UII](/assets/img/UII_Logo/UII_Kuning.png)
+## Projects
+### Capstone Project - XMotify Mark 2 | Universitas Islam Indonesia (_October 2021 - July 2022_) ![UII](/assets/img/UII_Logo/UII_Kuning.png)
 [Publications](https://www.linkedin.com/in/maulana-arbi/details/projects/)
 
 XMotify 2 is designed to classify the five basic human emotions by analyzing physiological properties such as heart rate and brain waves. The project programming languages used are **Python** and **JavaScript**
 
-###Comparing Breast Cancer Prediction using ANN Method and Binary Logistic Regression | Universitas Islam Indonesia (_November 2022 - January 2023_) ![UII](/assets/img/UII_Logo/UII_Kuning.png)
+### Comparing Breast Cancer Prediction using ANN Method and Binary Logistic Regression | Universitas Islam Indonesia (_November 2022 - January 2023_) ![UII](/assets/img/UII_Logo/UII_Kuning.png)
 [Publications](https://github.com/MevlanaDimas/ANN_3_Layers_Breast_Cancer_Prediction.git)
 
 📊 **Comparing Breast Cancer Prediction: ANN vs. Binary Logistic Regression** 🌟
@@ -69,19 +69,19 @@ In the realm of medical diagnostics, accurate breast cancer prediction is paramo
 
 Choose wisely based on your data, resources, and clinical context. Let's save lives together! 🎗️🔬
 
-###OTA Frimware Update for Microcontoler | PT. Mertani (Merapi Tani Instrumen) (_March 2023 - April 2023_) ![Mertani](/assets/img/Mertani/OIP-removebg.png)
+### OTA Frimware Update for Microcontoler | PT. Mertani (Merapi Tani Instrumen) (_March 2023 - April 2023_) ![Mertani](/assets/img/Mertani/OIP-removebg.png)
 [Publications](https://www.linkedin.com/in/maulana-arbi/details/projects/)
 
 Developed **back-end web application**, simple **front-end web application**, and **Internet of Things (IOT) microcontroller software** for **OTA firmware updates** at PT. Merapi Tani Instrumen.
 
-###Classification Comparison between ANN and Binary Gradient Boosted Decision Tree on Malaria Infected Red Blood Cell Images | Universitas Islam Indonesia (_May 2023 - July 2023_) ![UII](/assets/img/UII_Logo/UII_Kuning.png)
+### Classification Comparison between ANN and Binary Gradient Boosted Decision Tree on Malaria Infected Red Blood Cell Images | Universitas Islam Indonesia (_May 2023 - July 2023_) ![UII](/assets/img/UII_Logo/UII_Kuning.png)
 [Publications](https://github.com/MevlanaDimas/Classification_of_Red_Blood_Cell_Infected_by_Malaria_using_ANN.git)
 
 Unveiling the Power of **AI**: A Comparative Analysis of **ANN** vs. **Binary Gradient Boosted Decision Trees** for Detecting Malaria in RBC Images”
 
 Dive into the fascinating world of **machine learning** as we explore the strengths and nuances of **Artificial Neural Networks (ANN)** and **Binary Gradient Boosted Decision Trees** in identifying malaria-infected red blood cells.
 
-###Simple CRUD Project about Library Database Using Python | Purwadhika Digital Technology School (_February 2024 - February 2024_) ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
+### Simple CRUD Project about Library Database Using Python | Purwadhika Digital Technology School (_February 2024 - February 2024_) ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
 [Publications](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_1.git)
 
 Elevate Your **Data Analyst Skills** with This **Library CRUD App** Project in **Python**  
@@ -99,7 +99,7 @@ Are you a **data analyst** looking to level up your **Python** skills? Dive into
 
 Ready to embark on this **Python** project journey? Stay tuned for our upcoming posts, which will guide you through each step of building the **Library CRUD app**. Let's take your data analyst skills to the next level! 🚀📊
 
-###Data Analyst of New York City January TLC Trip Record | Purwadhika Digital Technology School (_April 2024 - April 2024_) ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
+### Data Analyst of New York City January TLC Trip Record | Purwadhika Digital Technology School (_April 2024 - April 2024_) ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
 [Publications](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_2.git)
 [Publications](https://public.tableau.com/views/Tableu_17140326891240/NYCTaxiTrip?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -136,7 +136,7 @@ The result? still not perfect because this model is overfitting, so I not recome
 
 Stay tuned for more exciting data science adventures! 🚀🔍
 
-##Certificate
+## Certificate
 
 - **Python Fundamentals for Beginners**
 [Publications](https://olympus.mygreatlearning.com/courses/12682/certificate)
