@@ -142,3 +142,4 @@ Stay tuned for more exciting data science adventures! 🚀🔍
 [Publications](https://olympus.mygreatlearning.com/courses/12682/certificate)
 - **Certificate of English Proficiency Test**
 [Publications](https://drive.google.com/file/d/1UrzinjMdK4q6i2KJy5mFEB0LvBhfIAux/view)
+![CEPT](assets/img/Certificate/DIMAS_MAULANA_ARBI_8._501_15.08.2023.jpg)
