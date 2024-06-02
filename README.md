@@ -3,7 +3,7 @@
 ###Thecnical Skills: Python, SQL, NoSQL, JavaScript, Django, HTML, PHP, Tableu, Microsoft Power BI
 
 ## Education
-Electical Engineering, BE | Universitas Islam Indonesia (GPA: 3.36) (_September 2018 - November 2023_)
+Electical Engineering, BE | Universitas Islam Indonesia (GPA: 3.36) (_September 2018 - November 2023_) ![UII](/assets/img/UII_Logo/UII - Kuning.png)
 Data Science | Purwadhika Digital Technology School (_February 2024 - May 2024_)
 
 ## Experience
