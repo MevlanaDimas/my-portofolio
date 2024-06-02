@@ -140,6 +140,7 @@ Stay tuned for more exciting data science adventures! 🚀🔍
 
 - **Python Fundamentals for Beginners**
 [Publications](https://olympus.mygreatlearning.com/courses/12682/certificate)
+![Python](/assets/img/Certificate/Maulana_Dimas20230926-73-vk0wtk.jpg)
 - **Certificate of English Proficiency Test**
 [Publications](https://drive.google.com/file/d/1UrzinjMdK4q6i2KJy5mFEB0LvBhfIAux/view)
-![CEPT](assets/img/Certificate/DIMAS_MAULANA_ARBI_8._501_15.08.2023.jpg)
+![CEPT](/assets/img/Certificate/DIMAS_MAULANA_ARBI_8._501_15.08.2023.jpg)
