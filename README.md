@@ -4,7 +4,7 @@
 
 ## Education
 Electical Engineering, BE | Universitas Islam Indonesia (GPA: 3.36) (_September 2018 - November 2023_) ![UII](/assets/img/UII_Logo/UII - Kuning.png)
-Data Science | Purwadhika Digital Technology School (_February 2024 - May 2024_)
+Data Science | Purwadhika Digital Technology School (_February 2024 - May 2024_) ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
 
 ## Experience
 **Students Researcher Staff of Biomedic Research Group at Universitas Islam Indonesia (_June 2020 - July 2021_)**
