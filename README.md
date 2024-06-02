@@ -42,6 +42,7 @@ Data Science | Purwadhika Digital Technology School (_February 2024 - May 2024_)
 -Assessed practicum reports to ensure comprehensive understanding and accurate application of physical properties by participants.
 
 **Electrical Design and Maintenance Engineer at NgideKreatif Production (_May 2021 - Present_)**
+
 -Designed electrical systems and manufactured products using CNC machines and 3D printing technology.
 -Support parts and components, we collaborated in a B2B partnership with creativity teams from Universitas Gajah Mada and Universitas Islam Indonesia, including automotive, aerospace, and robotics groups.
 
