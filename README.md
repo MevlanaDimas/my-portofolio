@@ -122,7 +122,7 @@ Ready to embark on this **Python** project journey? Stay tuned for our upcoming 
 - 💡 Analyzing NYC taxi trips through **Tableau** can provide valuable insights for **data analysts**. 🚕 Explore the **visualization** showcasing trip duration, distance travelled, and other key metrics. How can this data be leveraged to optimize operations and enhance decision-making processes? Share your thoughts on the potential applications of this analysis in the field of **data analytics**! 💭
 - 🔍 Delve into the details of NYC taxi trips through a comprehensive **Tableau visualization**! 🚖 Gain a deeper understanding of trip duration, distance covered, and patterns within the data. **Data analysts** can extract actionable insights from this analysis to drive informed decision-making. How do you approach data visualization in your work? Share your strategies and best practices in the comments below! 💬 
 
-##California House Price Prediction using Machine Learning | Purwadhika Digital Technology School (_May 2024 - May 2024_)
+### California House Price Prediction using Machine Learning | Purwadhika Digital Technology School (_May 2024 - May 2024_)
 ![Purwadhika](/assets/img/Purwadhika/Purwadhika-Logo.png)
 [GitHub](https://github.com/MevlanaDimas/Purwadhika_Capstone_Project_3.git)
 
