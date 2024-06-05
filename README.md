@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist and Back-End Developer
 
 ### Thecnical Skills: Python, SQL, NoSQL, JavaScript, Django, HTML, PHP, Tableu, Microsoft Power BI
 
